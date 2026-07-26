@@ -1,4 +1,39 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0533,100:0f0c29&height=220&section=header&text=Syed%20Muhammad%20Ahtesham&fontSize=44&fontColor=E0AAFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Agent%20Architect%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=15&descColor=C77DFF"/>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ●  ●  ●   ahtesham@universe: ~/engineer                    [scanning]  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║    ░█████╗░██╗  ██╗████████╗███████╗███████╗██╗  ██╗ █████╗ ███╗   ███║ ║
+║   ██╔══██╗██║  ██║╚══██╔══╝██╔════╝██╔════╝██║  ██║██╔══██╗████╗ ████║ ║
+║   ███████║███████║   ██║   █████╗  ███████╗███████║███████║██╔████╔██║ ║
+║   ██╔══██║██╔══██║   ██║   ██╔══╝  ╚════██║██╔══██║██╔══██║██║╚██╔╝██║ ║
+║   ██║  ██║██║  ██║   ██║   ███████╗███████║██║  ██║██║  ██║██║ ╚═╝ ██║ ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝║
+║                                                                          ║
+║   subject      →  Syed Muhammad Ahtesham                                ║
+║   role         →  Software Engineer │ AI Agent Architect                 ║
+║   origin       →  Faisalabad, Pakistan  📍                               ║
+║   education    →  FAST-NUCES │ CS + AI/ML                                ║
+║   status       →  building • learning • shipping  🟢                     ║
+║   ─────────────────────────────────────────────                          ║
+║   toolchain    →  VS Code, Git, Docker, n8n, Vercel                      ║
+║   languages    →  TypeScript, Python, JavaScript, C++                    ║
+║   frontend     →  Next.js 15, React 19, Tailwind CSS 4                   ║
+║   backend      →  Node.js, Express, MongoDB, PostgreSQL                  ║
+║   ai / agents  →  n8n, OpenAI GPT-4o, LangChain, RAG                    ║
+║   devops       →  Docker, Kubernetes, Flux CD, GitHub Actions            ║
+║   ─────────────────────────────────────────────                          ║
+║   portfolio    →  ahtesham-portfolio.vercel.app                          ║
+║   linkedin     →  linkedin.com/in/ahtesham-shah-06741032b                ║
+║   github       →  github.com/Ahtesham-Shah999                            ║
+║   mail         →  ahteshamshah999@gmail.com                              ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
 
@@ -7,12 +42,6 @@
 </a>
 
 <br/><br/>
-
-![University](https://img.shields.io/badge/FAST%20NUCES-Faisalabad-9D4EDD?style=flat-square&logo=academia&logoColor=white)&nbsp;
-![Location](https://img.shields.io/badge/📍_Pakistan-Faisalabad-7B2FBE?style=flat-square)&nbsp;
-![Status](https://img.shields.io/badge/🟢_Open_To-Work-22C55E?style=flat-square)
-
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-9D4EDD?style=for-the-badge)](https://ahtesham-portfolio.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-shah-06741032b)&nbsp;
