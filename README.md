@@ -37,22 +37,14 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=750&lines=🤖+Building+production-grade+AI+Agent+systems;⚡+Full-Stack+Engineer+%7C+Next.js+15+%7C+React+19;🔗+n8n+Workflow+Architect+%7C+LLM+Integration;🧠+Data+Scientist+%7C+Python+%7C+ML+Pipelines;🎓+FAST-NUCES+Faisalabad+%7C+Pakistan" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=750&lines=Building+production-grade+AI+Agent+systems;Full-Stack+Engineer+%7C+Next.js+15+%7C+React+19;n8n+Workflow+Architect+%7C+LLM+Integration;Data+Scientist+%7C+Python+%7C+ML+Pipelines;FAST-NUCES+Faisalabad+%7C+Pakistan" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-9D4EDD?style=for-the-badge)](https://ahtesham-portfolio.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtesham-portfolio.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-shah-06741032b)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahteshamshah999@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahtesham-Shah999)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ahtesham-Shah999&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Ahtesham-Shah999?label=FOLLOWERS&style=flat-square&color=7B2FBE&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
 
@@ -236,51 +228,11 @@ I don't just write features — I **architect production systems** that solve re
 
 ---
 
-## &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahtesham-Shah999&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Ahtesham-Shah999&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtesham-Shah999&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahtesham-Shah999&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## &nbsp;Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtesham-Shah999&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-
-</div>
-
----
-
-## &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahtesham-Shah999/Ahtesham-Shah999/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahtesham-Shah999/Ahtesham-Shah999/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Ahtesham-Shah999/Ahtesham-Shah999/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtesham-Shah999&theme=tokyo-night&hide_border=true&area=true&custom_title=Ahtesham's%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
 
 </div>
 
