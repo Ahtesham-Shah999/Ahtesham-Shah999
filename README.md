@@ -86,31 +86,6 @@ I build at the intersection of **scalable web engineering** and **intelligent au
 
 ---
 
-## &nbsp;📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahtesham-Shah999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtesham-Shah999&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=C77DFF&text_color=ffffff&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtesham-Shah999&theme=radical&hide_border=true&background=0D0D0D&stroke=9D4EDD&ring=C77DFF&fire=FF6B6B&currStreakLabel=C77DFF" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## &nbsp;🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahtesham-Shah999&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## &nbsp;🤖 AI / ML Expertise
 
 <div align="center">
@@ -131,22 +106,6 @@ I build at the intersection of **scalable web engineering** and **intelligent au
 ## &nbsp;🚀 Featured Projects
 
 <details>
-<summary><b>&nbsp;⚡ TeleCRM — AI-Powered CRM & Communication Platform</b></summary>
-<br/>
-
-> A production-grade, enterprise CRM platform built to manage leads, automate outreach, and centralize communication. Architected with a modern full-stack setup designed to scale to millions of users, with AI-assisted lead scoring and pipeline management.
-
-| | |
-|:---|:---|
-| **Stack** | React 19 · Node.js · Express · MongoDB · JWT Auth · Tailwind CSS |
-| **AI Layer** | AI-powered lead scoring · Automated follow-up workflows · Smart analytics |
-| **Scale** | Multi-tenant SaaS architecture · Optimized for high-concurrency |
-| **Features** | Lead management · Communication logs · Pipeline tracking · Team dashboards |
-| **Repo** | [![TeleCRM](https://img.shields.io/badge/View_Repository-TeleCRM-9D4EDD?style=flat-square&logo=github)](https://github.com/Ahtesham-Shah999/telecrm) |
-
-</details>
-
-<details>
 <summary><b>&nbsp;⚡ Stratify — AI-Powered Forex Strategy SaaS</b></summary>
 <br/>
 
@@ -160,6 +119,22 @@ I build at the intersection of **scalable web engineering** and **intelligent au
 | **Performance** | Sub-200ms strategy parse · Concurrent backtest execution |
 | **Security** | JWT auth · Rate limiting · Sandboxed strategy execution |
 | **Repo** | [![Stratify](https://img.shields.io/badge/View_Repository-Stratify-9D4EDD?style=flat-square&logo=github)](https://github.com/Ahtesham-Shah999/Stratify-Ultimate-AI-Powered-Saas) |
+
+</details>
+
+<details>
+<summary><b>&nbsp;⚡ TeleCRM — AI-Powered CRM & Communication Platform</b></summary>
+<br/>
+
+> A production-grade, enterprise CRM platform built to manage leads, automate outreach, and centralize communication. Architected with a modern full-stack setup designed to scale to millions of users, with AI-assisted lead scoring and pipeline management.
+
+| | |
+|:---|:---|
+| **Stack** | React 19 · Node.js · Express · MongoDB · JWT Auth · Tailwind CSS |
+| **AI Layer** | AI-powered lead scoring · Automated follow-up workflows · Smart analytics |
+| **Scale** | Multi-tenant SaaS architecture · Optimized for high-concurrency |
+| **Features** | Lead management · Communication logs · Pipeline tracking · Team dashboards |
+| **Repo** | [![TeleCRM](https://img.shields.io/badge/View_Repository-TeleCRM-9D4EDD?style=flat-square&logo=github)](https://github.com/Ahtesham-Shah999/telecrm) |
 
 </details>
 
