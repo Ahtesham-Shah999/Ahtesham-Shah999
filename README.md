@@ -1,167 +1,95 @@
-<div align="center">
+<h1 align="center">Muhammad Ahtesham</h1>
+<p align="center">
+  <b>AI Engineer &nbsp;|&nbsp; Full Stack Engineer</b><br/>
+  Building production LLM systems, RAG pipelines, and scalable web platforms<br/>
+  Faisalabad, Pakistan &nbsp;·&nbsp; Open to remote opportunities worldwide
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:111827,100:1E3A8A&height=200&section=header&text=Syed%20Muhammad%20Ahtesham&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Agent%20Architect%20%7C%20FAST-NUCES&descAlignY=58&fontColor=ffffff&descColor=60A5FA" />
+<p align="center">
+  <a href="https://ahtesham-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ahtesham--portfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ahtesham-mumtaz"><img src="https://img.shields.io/badge/LinkedIn-ahtesham--mumtaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ahteshamshah9991@gmail.com"><img src="https://img.shields.io/badge/Email-ahteshamshah9991@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-</div>
+## About
+I'm a Software Engineering graduate of FAST-NUCES (2022 – 2026) who builds and ships LLM-powered systems end to end: from retrieval pipelines and model fine-tuning to the APIs and web interfaces that put them in front of users.
 
-<div align="center">
+Most recently I worked as an AI Engineer at Zevenz, where I deployed production RAG workflows with Python and FastAPI and automated manual processes with n8n. Alongside that, I have full-stack experience with Next.js, React, and Node.js, plus hands-on DevOps with Docker, Kubernetes, and CI/CD.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Engineer+%7C+Next.js+%7C+Node.js;🤖+AI+Architect+%7C+RAG+%7C+LLM+Fine-Tuning;🧠+Building+Production+AI+SaaS;⚡+FAST-NUCES+CS+Graduate" alt="Typing SVG" />
+## What I focus on
+* **AI engineering**: RAG pipelines, LLM integration (Gemini, GPT-4o), parameter-efficient fine-tuning (LoRA/PEFT), prompt engineering, workflow automation with n8n
+* **Full-stack development**: Next.js, React, TypeScript, Node.js, Express, FastAPI, PostgreSQL, MongoDB
+* **Infrastructure**: Docker, Kubernetes, AWS, Terraform, GitOps (Flux CD), CI/CD
 
-<br/><br/>
+## Experience
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtesham-portfolio.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-mumtaz)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahteshamshah9991@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahtesham-Shah999)
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| **AI Engineer** | Zevenz, Faisalabad | Oct 2025 – Mar 2026 |
+| **Full Stack Engineer** | App Minds Software House, Faisalabad | Jun 2025 – Aug 2025 |
+| **Backend Developer** | Nexium Software House, Remote | Jun 2025 – Aug 2025 |
 
-<br/>
+**Highlights**
+* Built and deployed production LLM-integrated RAG workflows with Python and FastAPI, improving accuracy by 35% through prompt engineering
+* Automated data-processing pipelines with n8n, saving 8+ hours per week of manual work
+* Reduced frontend load time by 30% and API latency by 25% through performance optimization
+* Developed 10+ REST API endpoints with Node.js and Express
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahtesham-Shah999&color=2563EB&style=flat-square&label=Profile+Views)&nbsp;
-![Repos](https://img.shields.io/badge/Public_Repos-33+-2563EB?style=flat-square)&nbsp;
-![Focus](https://img.shields.io/badge/Status-Open_to_Work-10B981?style=flat-square)
+## Featured Projects
 
-</div>
+### AI & Machine Learning
 
----
+**[Medical RAG Compliance Bot](https://github.com/Ahtesham-Shah999/medical-rag-compliance-bot)**
+Two retrieval-augmented generation systems: a medical Q&A assistant and a policy-compliance auditor with multi-turn evaluation. Semantic search runs over 5,000+ medical transcriptions, and answers are generated with Gemini 2.0 Flash. 
+*Tech: Python, LangChain, FAISS, Sentence Transformers, Gemini 2.0 Flash, Streamlit*
 
-## &nbsp;👨‍💻 About Me
+**[LLM Fine-Tuning Pipelines](https://github.com/Ahtesham-Shah999/-LLM-Fine-Tuning-Pipelines)**
+Parameter-efficient fine-tuning with LoRA across three model families: GPT-2 for recipe generation, T5-Small for summarization, and a Vision Transformer for image classification. Trains roughly 99% fewer parameters than full fine-tuning. 
+*Tech: Python, PyTorch, Transformers, PEFT / LoRA*
 
-I'm **Syed Muhammad Ahtesham** — a **Full Stack Software Engineer & AI Agent Architect** from Faisalabad, Pakistan. I specialize in engineering high-performance SaaS applications and deploying cutting-edge AI pipelines.
+**[Stratify: AI-Powered Trading Platform](https://github.com/Ahtesham-Shah999/Stratify-Ultimate-AI-Powered-Saas)**
+SaaS platform that turns natural-language trading strategies into structured, executable logic, with real-time backtesting. Strategy parsing reached 90%+ accuracy, validated over 2+ years of historical data. 
+*Tech: Next.js, Node.js, Express, MongoDB, Python, Gemini, FinBERT*
 
-I approach software engineering with a focus on writing clean, maintainable, and highly scalable code. Every project I ship is production-ready, documented to industry standards, and designed for real-world impact.
+**[Generative AI Voice Cloning Pipeline (Audiobook Studio)](https://github.com/Ahtesham-Shah999/AI-Powered-Audiobook-Studio)**
+Zero-shot voice synthesis with OpenVoice V2, served through a versioned FastAPI endpoint, automated with n8n, and containerized with Docker for concurrent load. 
+*Tech: OpenVoice V2, FastAPI, Python, n8n, Docker*
 
-**Core Expertise:**
-- 🤖 **AI Engineering & LLMs** — Fine-Tuning (LoRA/PEFT), RAG Pipelines, Multi-Agent Orchestration (n8n, LangChain), Deep Learning (PyTorch).
-- ⚡ **Full-Stack Development** — Next.js 15, React 19, Node.js, TypeScript, PostgreSQL, MongoDB, Redis.
-- 🏗️ **DevOps & Architecture** — Docker, Kubernetes, AWS, GitOps (Flux CD), CI/CD pipelines.
+**[Automating Paper Annotation Using LLMs](https://github.com/Ahtesham-Shah999/Automating-Paper-Annotation-Using-Large-Language-Models)**
+Zero-shot classification of thousands of NeurIPS papers with Gemini Pro. A parallelized scrape, dataset-build, and labeling pipeline ran up to 5x faster. 
+*Tech: Python, Gemini Pro, Pandas, BeautifulSoup4, ThreadPoolExecutor*
 
----
+### Full Stack & DevOps
 
-## &nbsp;🛠️ Tech Stack
+**[DevOverflow](https://github.com/Ahtesham-Shah999/devoverflow)** · **[Live demo](https://devoverflowali.vercel.app/)**
+Developer Q&A platform built on the Next.js 15 App Router with React Server Components, Clerk authentication (OAuth and email), and dark/light theming. 
+*Tech: Next.js 15, React 19, TypeScript, Tailwind CSS 4, Clerk*
 
-<div align="center">
+**[TeleCRM](https://github.com/Ahtesham-Shah999/telecrm)**
+CRM and communication platform with JWT authentication and AI-powered lead scoring. 
+*Tech: React 19, Node.js, Express, MongoDB*
 
-**Languages**
+**[Zeytin](https://github.com/Ahtesham-Shah999/Zeytin-site)**
+AI reservation agent for a restaurant website, built on n8n webhooks and GPT-4o with a stateful multi-turn booking flow. 
+*Tech: n8n, OpenAI GPT-4o, JavaScript*
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css&theme=dark&perline=8" />
+## Tech Stack
 
-<br/><br/>
+* **AI / ML**: Python · PyTorch · Transformers · PEFT/LoRA · LangChain · FAISS · RAG · Prompt Engineering · Gemini · OpenAI GPT-4o · n8n
+* **Backend**: Node.js · Express · FastAPI · REST · GraphQL · WebSockets · JWT
+* **Frontend**: React · Next.js · TypeScript · Redux · Tailwind CSS
+* **Databases**: PostgreSQL · MongoDB · MySQL · Redis · Firebase · Supabase
+* **DevOps & Cloud**: Docker · Kubernetes · AWS · Terraform · Jenkins · Flux CD · GitHub Actions · Linux
+* **Languages**: Python · TypeScript · JavaScript · Java · C++ · C#
 
-**Frontend**
+## Education
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,redux&theme=dark&perline=8" />
+**BS in Software Engineering**, National University of Computer & Emerging Sciences (FAST-NUCES), Faisalabad · 2022 – 2026
 
-<br/><br/>
+## Get in Touch
 
-**Backend & Databases**
+I'm open to AI Engineer and Full Stack roles, remote or on-site.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis&theme=dark&perline=8" />
-
-<br/><br/>
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,linux,aws&theme=dark&perline=8" />
-
-<br/><br/>
-
-**AI & Automation**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=8" />&nbsp;
-<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="48"/>&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" height="48"/>&nbsp;
-<img src="https://img.shields.io/badge/LangChain-LLM_Orchestration-1C3C3C?style=flat-square&logoColor=white" height="48"/>
-
-</div>
-
----
-
-## &nbsp;🚀 Featured Projects
-
-<details>
-<summary><b>&nbsp;🤖 Medical RAG Compliance Bot</b></summary>
-<br/>
-
-> Two production-ready RAG systems utilizing LangChain, FAISS, and Gemini 2.0 Flash for medical Q&A and strict policy compliance auditing.
-| | |
-|:---|:---|
-| **Stack** | Python · Streamlit · FAISS · LangChain |
-| **AI Layer** | Sentence Transformers · Google Gemini 2.0 Flash · Semantic Search |
-| **Scale** | 5,000+ medical transcriptions · Multi-turn compliance evaluation |
-| **Repo** | [![Repository](https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahtesham-Shah999/medical-rag-compliance-bot) |
-
-</details>
-
-<details>
-<summary><b>&nbsp;🧠 LLM Fine-Tuning Pipelines</b></summary>
-<br/>
-
-> Implemented efficient parameter fine-tuning using LoRA (Low-Rank Adaptation) across various transformer models for recipe generation, text summarization, and image classification.
-| | |
-|:---|:---|
-| **Stack** | Python · PyTorch · Transformers · PEFT |
-| **Models** | GPT-2 · T5-Small · Vision Transformer (ViT) |
-| **Performance** | ~99% parameter reduction maintaining high inference accuracy |
-| **Repo** | [![Repository](https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahtesham-Shah999/-LLM-Fine-Tuning-Pipelines) |
-
-</details>
-
-<details>
-<summary><b>&nbsp;⚡ Stratify — AI-Powered Forex Strategy SaaS</b></summary>
-<br/>
-
-> An end-to-end SaaS platform democratizing algorithmic forex trading. Transforms natural language strategies into executable Python parameters with real-time backtesting against live market data.
-| | |
-|:---|:---|
-| **Stack** | Next.js 15 · Node.js · MetaTrader 5 · PostgreSQL · Redis |
-| **AI Layer** | OpenAI GPT-4o · LangChain |
-| **Repo** | [![Repository](https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahtesham-Shah999/Stratify-Ultimate-AI-Powered-Saas) |
-
-</details>
-
-<details>
-<summary><b>&nbsp;💻 DevOverflow — Full-Stack Developer Q&A</b></summary>
-<br/>
-
-> A next-generation developer Q&A platform built on Next.js 15 App Router. Utilizes React Server Components, Clerk Authentication, and dynamic Tailwind styling.
-| | |
-|:---|:---|
-| **Stack** | Next.js 15 · React 19 · TypeScript 5 · Tailwind CSS 4 |
-| **Live** | [![Live](https://img.shields.io/badge/🌐_Live-devoverflowali.vercel.app-10B981?style=flat-square&logoColor=white)](https://devoverflowali.vercel.app) |
-| **Repo** | [![Repository](https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahtesham-Shah999/devoverflow) |
-
-</details>
-
----
-
-## &nbsp;🤝 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|:---:|:---|
-| 🌐 **Portfolio** | [ahtesham-portfolio.vercel.app](https://ahtesham-portfolio.vercel.app/) |
-| 💼 **LinkedIn** | [linkedin.com/in/ahtesham-mumtaz](https://www.linkedin.com/in/ahtesham-mumtaz) |
-| 📧 **Gmail** | [ahteshamshah9991@gmail.com](mailto:ahteshamshah9991@gmail.com) |
-| 🐙 **GitHub** | [github.com/Ahtesham-Shah999](https://github.com/Ahtesham-Shah999) |
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-ahteshamshah9991@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahteshamshah9991@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahtesham--mumtaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-mumtaz)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtesham-portfolio.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best engineers don't just write code — they architect systems that outlive the sprint."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:111827,100:0B0F19&height=120&section=footer"/>
-
-</div>
+* **Portfolio**: [ahtesham-portfolio.vercel.app](https://ahtesham-portfolio.vercel.app/)
+* **LinkedIn**: [linkedin.com/in/ahtesham-mumtaz](https://www.linkedin.com/in/ahtesham-mumtaz)
+* **Email**: [ahteshamshah9991@gmail.com](mailto:ahteshamshah9991@gmail.com)
